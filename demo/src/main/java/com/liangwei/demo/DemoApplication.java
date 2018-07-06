@@ -1,6 +1,5 @@
 package com.liangwei.demo;
 
-import com.liangwei.userInterface.UserRepository;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
